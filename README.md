@@ -4,4 +4,4 @@ to dwonloud =>
 git clone https://github.com/nabilnagib201/JON-MUSIC.git
 
 
-if error try this : click on code and downloud zip
+if error try this : click on code and download zip
